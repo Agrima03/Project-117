@@ -1,0 +1,52 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    color: white;
+    font-family: cursive;
+    border: rgb(206,206,206) dashed 2px;
+    width: 70%;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.head{
+    float: none;
+    background-color: white;
+    border-radius: 10px;
+    border: rgb(206,206,206) dashed 2px;
+    padding: 5px;
+    font-family: cursive;
+    font-size: 20px;
+    width: 40%;
+    color: black;
+}
+
+.head h3{
+    background-color: rgb(255, 107, 132);
+    border-radius: 10px;
+    border: rgb(206,206,206) dashed 2px;
+    font-size: 20px;
+    padding: 5px;
+    color: black;
+}
+
+.result{
+    background-color: rgb(255, 107, 132);
+    border-radius: 10px;
+    border: rgb(206,206,206) dashed 2px;
+    font-size: 20px;
+    padding: 5px;
+    color: black;
+    width: 20%;
+    text-align:left;
+    font-family: cursive;
+}
+
+canvas{
+    border: rgb(206,206,206) dashed 2px;
+    box-shadow:2px 2px 10px rgb(255, 107, 132);
+}
